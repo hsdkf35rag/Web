@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+}
+
+#Body {
+  width: 90%;
+  height: 1280px;
+  margin-left: 72px;
+  margin-top: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Nhan {
+  border-bottom: 1px solid lightgray;
+}
+
+.Name {
+  font-size: 130%;
+  font-weight: bold;
+}
+
+#ThongTin {
+  float: left;
+  width: 710px;
+  margin-left: 5px;
+}
+
+#DoiTra {
+  width: 710px;
+  height: 70px;
+  border-bottom: 1px solid lightgray;
+}
+
+#ChiTiet {
+  float: left;
+  width: 450px;
+  margin-left: 39px;
+}
+
+.Khung > img {
+  width: 710px;
+  height: 420px;
+}
+
+.Khung {
+  margin-top: 20px;
+}
+
+.DoiTra1 {
+  width: 348px;
+  font-size: 90%;
+  margin-right: 7px;
+}
+
+.DoiTra1 > img {
+  width: 37px;
+  height: 37px;
+  float: inherit;
+  margin-right: 4px;
+  margin-top: 7px;
+}
+
+.DoiHu {
+  float: left;
+}
+
+.BaoHanh {
+  float: left;
+}
+
+#Inf {
+  height: 470px;
+}
+
+.Inf1 {
+  color: deepskyblue;
+}
+
+.Gia {
+  width: 448px;
+  height: 50px;
+  border: 1px solid lightgrey;
+  background-color: lightgrey;
+  text-align: center;
+  font-weight: bold;
+  font-size: 110%;
+  padding-bottom: 7px;
+}
+
+.Gia > p > sup {
+  text-decoration: underline;
+}
+
+.MuaNgay {
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+  font-size: 100%;
+}
+
+.MuaNgay:hover {
+  font-size: 120%;
+  text-shadow: 0px 0px 5px yellow;
+  box-shadow: 0px 0px 5px black;
+}
+
+.Khung > table {
+  width: 460px;
+  padding-right: 7px;
+}

@@ -1,0 +1,87 @@
+
+#Body {
+  margin-left: 430px;
+  margin-bottom: 100px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Body > form {
+  width: 405px;
+  border: 1px solid lightgray;
+  padding: 20px 20px 20px 20px;
+  margin-top: 80px;
+}
+
+#Body > form > h1 {
+  margin-left: 105px;
+  text-transform: uppercase;
+  color: darkblue;
+}
+.Lable {
+  font-size: 70%;
+}
+
+#Body > form > table {
+  border-top: 1px solid lightgray;
+  padding: 20px 20px 20px 20px;
+  border-left: none;
+}
+#SignIn {
+  cursor: pointer;
+}
+
+#SignIn:hover {
+  color: white;
+  background-color: darkblue;
+  border: none;
+  box-shadow: 0px 0px 3px black;
+}
+
+#Foot {
+  clear: both;
+  height: 180px;
+  border-top: 1px solid lightgray;
+}
+
+.Inline {
+  float: left;
+  margin-right: 110px;
+}
+
+#GTT1 {
+  margin-left: 70px;
+}
+
+.GTThem > p > a {
+  color: black;
+  line-height: 30px;
+}
+
+.GTThem > p > a:hover {
+  color: deepskyblue;
+}
+
+.Blue {
+  color: deepskyblue;
+}
+
+.CungHang > ul {
+  width: 300px;
+}
+
+.CungHang {
+  float: right;
+  margin-right: 20px;
+}
+
+.CungHang > p {
+  padding-left: 40px;
+}
+
+#Last {
+  clear: both;
+  height: 70px;
+  background-color: lightgray;
+  text-align: center;
+  padding-top: 1px;
+}
